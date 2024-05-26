@@ -1,0 +1,320 @@
+[+] Containers:
+ |- [+] Container: /Game/FELIPE/Map/FeliLevel
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:04C61D59438B043F255D479AF71CFD06 BaseClass:/Game/FELIPE/Blueprints/Pitchfork.Pitchfork_C NativeClass:/Script/Engine.Actor Name:Pitchfork_C_UAID_84EF18681C0211F901_1899599136 Label:Pitchfork9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6966.545 Y=-1168.654 Z=2402.750), Max=(X=7378.042 Y=-363.135 Z=2477.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:1108D11A4051ED95B5F77BBB20209E1B BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_84EF18681C0211F901_1899556116 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-7472.250 Y=-906.154 Z=3172.750), Max=(X=-7472.250 Y=-906.154 Z=3172.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:15BB622D4D32A433DADCBE8FEE84E7B4 BaseClass: NativeClass:/Script/Engine.Actor Name:Actor_UAID_84EF18681C0211F901_1899591132 Label:Actor5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3844.750 Y=-1143.654 Z=2142.750), Max=(X=11180.250 Y=-168.654 Z=2242.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:16AE42314EFBBA1D9B6E299311568F7D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899584128 Label:Cube21 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9005.250 Y=-1476.154 Z=3975.250), Max=(X=9630.250 Y=-1376.154 Z=4350.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- Guid:181A6D8C4F2D967BCAA541B45EE01899 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899578124 Label:Cube20 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=8592.750 Y=-1476.154 Z=4155.250), Max=(X=9142.750 Y=-1376.154 Z=4630.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- Guid:1A17B9B84116098B9A1C988C02686BB7 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899635151 Label:Cube6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1379.750 Y=-1476.154 Z=3910.250), Max=(X=-504.750 Y=-1376.154 Z=4535.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- Guid:2012CD7C40074360623020919B08FB8D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899618144 Label:Cube15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5472.750 Y=-1476.154 Z=4075.250), Max=(X=6022.750 Y=-1376.154 Z=4550.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- Guid:203138A64EF6D58A35398E854C81B120 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_84EF18681C0211F901_1899566120 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-7472.250 Y=-906.154 Z=3372.750), Max=(X=-7472.250 Y=-906.154 Z=3372.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:21D09C1A493BC305A9846C8ACB1E3CC1 BaseClass: NativeClass:/Script/Engine.Actor Name:Actor_UAID_84EF18681C0211F901_1899633150 Label:Actor6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10750.750 Y=-967.654 Z=3602.750), Max=(X=10850.750 Y=-242.654 Z=4402.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- Guid:2C0E905647EBF5D599B0B382ED775555 BaseClass:/Game/FELIPE/Blueprints/Pitchfork.Pitchfork_C NativeClass:/Script/Engine.Actor Name:Pitchfork_C_UAID_84EF18681C0211F901_1899603138 Label:Pitchfork6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4006.545 Y=-1168.654 Z=2412.750), Max=(X=4418.042 Y=-363.135 Z=2487.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3117BF5045E4E6C1F84C768A4250BCA1 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_84EF18681C0211F901_1899606139 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-7472.250 Y=-906.154 Z=3042.750), Max=(X=-7472.250 Y=-906.154 Z=3042.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:31CF6CA24F029F131D8853A3135A0754 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899529103 Label:Cube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3809.750 Y=-1476.154 Z=3910.250), Max=(X=-2934.750 Y=-1376.154 Z=4535.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- Guid:336BEFE942ECF45F743FE09D1014F361 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899533105 Label:Cube14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4812.750 Y=-1476.154 Z=3955.250), Max=(X=5362.750 Y=-1376.154 Z=4430.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- Guid:49357C7F43D69EBF713CB787E64984F4 BaseClass:/Game/FELIPE/Blueprints/Ball.Ball_C NativeClass:/Script/Engine.Actor Name:Ball_C_UAID_84EF18681C0211F901_1899561118 Label:Ball4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5561.877 Y=-816.199 Z=2208.795), Max=(X=5871.961 Y=-299.393 Z=2633.301) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:4EB42FC04D26CA54DCB067A3FD2184B5 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899623146 Label:Cube17 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6662.750 Y=-1476.154 Z=4135.250), Max=(X=7212.750 Y=-1376.154 Z=4610.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- Guid:507822E94CA6E5F8CB646B9FEDDC8DC7 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899621145 Label:Cube4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1989.750 Y=-1476.154 Z=4090.250), Max=(X=-1114.750 Y=-1376.154 Z=4715.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- Guid:5210E1F54A4930DB18BFB88B0708C71C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899542110 Label:Cube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2859.750 Y=-1476.154 Z=3910.250), Max=(X=-1984.750 Y=-1376.154 Z=4535.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- Guid:551CE55D42982630109317AB0816C93D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899614142 Label:Cube13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3172.750 Y=-1476.154 Z=3955.250), Max=(X=3722.750 Y=-1376.154 Z=4430.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- Guid:59E28EC04581E96F97AEDFB477316F5B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899537107 Label:Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3924.750 Y=-1486.154 Z=3770.250), Max=(X=13200.250 Y=-1386.154 Z=6195.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- Guid:5DF968A44EEE07D14FD32799CB2B05DD BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899581126 Label:Cube5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-229.750 Y=-1476.154 Z=3910.250), Max=(X=645.250 Y=-1376.154 Z=4535.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- Guid:5FD1C61D4325B99DE3CD4FA8B6889258 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899539108 Label:Cube8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-824.750 Y=-1476.154 Z=3875.250), Max=(X=-199.750 Y=-1376.154 Z=4250.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- Guid:639C143D460443A9B70E5A83A0F6004B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899628148 Label:Cube12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3750.250 Y=-1476.154 Z=3910.250), Max=(X=4625.250 Y=-1376.154 Z=4535.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- Guid:65C0C5884BF865EDE69945BEC1758309 BaseClass: NativeClass:/Script/Engine.Actor Name:Actor_UAID_84EF18681C0212F901_1813585334 Label:Actor9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-686.754 Y=-738.687 Z=3845.350), Max=(X=7919.496 Y=-288.687 Z=4150.350) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- Guid:66CE578F4EAF72478EBCC1ACE3D1BAF8 BaseClass: NativeClass:/Script/Engine.Actor Name:Actor_UAID_84EF18681C0211F901_1899589130 Label:Actor4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3559.250 Y=-1185.154 Z=3602.750), Max=(X=-3459.250 Y=-185.154 Z=4402.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- Guid:69292CAD4AFF7D0C9BDAB0924D0C0911 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899616143 Label:Cube18 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6312.750 Y=-1476.154 Z=3895.250), Max=(X=6862.750 Y=-1376.154 Z=4370.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- Guid:6CBA2E364733036BD5EACF8324356826 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:None SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:7BE14A054FD80444F2F9D3A8CB112C90 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899579125 Label:Cube7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=305.250 Y=-1476.154 Z=3975.250), Max=(X=930.250 Y=-1376.154 Z=4350.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- Guid:7D2B5E5D4CCF1825371AC7872295857F BaseClass:/Game/FELIPE/Blueprints/Ball.Ball_C NativeClass:/Script/Engine.Actor Name:Ball_C_UAID_84EF18681C0211F901_1899572122 Label:Ball7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9671.877 Y=-816.199 Z=3918.795), Max=(X=9981.961 Y=-299.393 Z=4343.301) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- Guid:8254E3184BF6BC5C3417C480F3BD0BA5 BaseClass:/Game/FELIPE/Blueprints/Ball.Ball_C NativeClass:/Script/Engine.Actor Name:Ball_C_UAID_84EF18681C0211F901_1899568121 Label:Ball5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=8411.877 Y=-816.199 Z=2228.795), Max=(X=8721.961 Y=-299.393 Z=2653.301) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:872B34714D31628D73297C81ABF06B5C BaseClass:/Game/FELIPE/Blueprints/Ball.Ball_C NativeClass:/Script/Engine.Actor Name:Ball_C_UAID_84EF18681C0211F901_1899625147 Label:Ball6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=8411.877 Y=-816.199 Z=3918.795), Max=(X=8721.961 Y=-299.393 Z=4343.301) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- Guid:892B727B40D2F5693C2F888734A843EA BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_UAID_84EF18681C0211F901_1899534106 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-7472.250 Y=-906.154 Z=2752.750), Max=(X=-7272.250 Y=-706.154 Z=2952.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:97999B824DF3E243DD9FDA96AD90E41D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899609140 Label:Cube11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2260.250 Y=-1476.154 Z=3910.250), Max=(X=3135.250 Y=-1376.154 Z=4535.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- Guid:9C841D184C447654A487C8BE1A65C171 BaseClass:/Game/FELIPE/Blueprints/Pitchfork.Pitchfork_C NativeClass:/Script/Engine.Actor Name:Pitchfork_C_UAID_84EF18681C0211F901_1899530104 Label:Pitchfork4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2166.545 Y=-1168.654 Z=4082.750), Max=(X=2578.042 Y=-363.135 Z=4157.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- Guid:A2207D04484873D16BFEE68FD47D2B94 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899640153 Label:Cube19 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7237.750 Y=-1476.154 Z=3965.250), Max=(X=8437.750 Y=-1376.154 Z=4740.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- Guid:A623642240829112CE3EAB89D2EAEF92 BaseClass:/Game/FELIPE/Blueprints/Pitchfork.Pitchfork_C NativeClass:/Script/Engine.Actor Name:Pitchfork_C_UAID_84EF18681C0211F901_1899597135 Label:Pitchfork2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1853.455 Y=-1168.654 Z=4082.750), Max=(X=-1441.958 Y=-363.135 Z=4157.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- Guid:AD89688D4B33BD372D2E2EAFEC1978F2 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_84EF18681C0211F901_1899550114 Label:PlayerStart2 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-3172.250 Y=-746.154 Z=2762.750), Max=(X=-3092.250 Y=-666.154 Z=2946.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:AEA0D40C4E6F35B8568BD5AB13FA8992 BaseClass:/Game/FELIPE/Blueprints/Pitchfork.Pitchfork_C NativeClass:/Script/Engine.Actor Name:Pitchfork_C_UAID_84EF18681C0211F901_1899546112 Label:Pitchfork3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1853.455 Y=-1168.654 Z=2362.750), Max=(X=-1441.958 Y=-363.135 Z=2437.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B8A57A7E47196D0B04D0A5A9F47463EA BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_UAID_84EF18681C0211F901_1899544111 Label:TextRenderActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-7472.350 Y=193.846 Z=2417.763), Max=(X=-7472.350 Y=1486.154 Z=2567.763) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:BA1AE53B461942CAA77691BA4B003861 BaseClass:/Game/FELIPE/Blueprints/Pitchfork.Pitchfork_C NativeClass:/Script/Engine.Actor Name:Pitchfork_C_UAID_84EF18681C0211F901_1899553115 Label:Pitchfork5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2166.545 Y=-1168.654 Z=2412.750), Max=(X=2578.042 Y=-363.135 Z=2487.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:BB09E8D042F5867D5CBA1286372B47DA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899601137 Label:Cube22 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9885.250 Y=-1476.154 Z=4075.250), Max=(X=10510.250 Y=-1376.154 Z=4750.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- Guid:BD38E5AF44A2E90E5445A29D9B4E2DB7 BaseClass: NativeClass:/Script/Engine.Actor Name:Actor_UAID_84EF18681C0212F901_2051164337 Label:Actor10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-686.754 Y=-738.687 Z=2255.350), Max=(X=7919.496 Y=-288.687 Z=2560.350) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C06A61A341E423CCF63B889C40B933B8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899592133 Label:Cube16 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5972.750 Y=-1476.154 Z=3975.250), Max=(X=6522.750 Y=-1376.154 Z=4450.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- Guid:CA3230F9414C5810FAD1FA826528A46C BaseClass:/Game/FELIPE/Blueprints/Ball.Ball_C NativeClass:/Script/Engine.Actor Name:Ball_C_UAID_84EF18681C0211F901_1899563119 Label:Ball2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=721.877 Y=-816.199 Z=2218.795), Max=(X=1031.961 Y=-299.393 Z=2643.301) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:CDA61860410D1D38ACA04CB39F04B60F BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_84EF18681C0211F901_1899582127 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D0B5847C4360F0957E161B8ED4E56C47 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899541109 Label:Cube9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1535.250 Y=-1476.154 Z=3985.250), Max=(X=2160.250 Y=-1376.154 Z=4660.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- Guid:D5BB11C243B317A1216547BDA6F2880E BaseClass: NativeClass:/Script/Engine.Actor Name:Actor_UAID_84EF18681C0211F901_1899527102 Label:Actor3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3844.750 Y=-996.154 Z=3056.500), Max=(X=11180.250 Y=-896.154 Z=4519.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- Guid:D6079D71447B68981110B39456853ED3 BaseClass: NativeClass:/Script/Engine.Actor Name:Actor_UAID_84EF18681C0211F901_1899577123 Label:Actor7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3844.750 Y=-1143.654 Z=3752.750), Max=(X=11180.250 Y=-168.654 Z=3852.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- Guid:D965E4534F34FC1C1FFA6FA4F912695D BaseClass:/Game/FELIPE/Blueprints/Pitchfork.Pitchfork_C NativeClass:/Script/Engine.Actor Name:Pitchfork_C_UAID_84EF18681C0211F901_1899611141 Label:Pitchfork8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6966.545 Y=-1168.654 Z=4082.750), Max=(X=7378.042 Y=-363.135 Z=4157.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- Guid:D9E9D6AD412FF04E450C60B89A816C9B BaseClass:/Game/FELIPE/Blueprints/Ball.Ball_C NativeClass:/Script/Engine.Actor Name:Ball_C_UAID_84EF18681C0211F901_1899637152 Label:Ball3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5561.877 Y=-816.199 Z=3908.795), Max=(X=5871.961 Y=-299.393 Z=4333.301) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- Guid:DD9DC7A94461CA01F4E099BFC708AA37 BaseClass:/Game/FELIPE/Blueprints/Pitchfork.Pitchfork_C NativeClass:/Script/Engine.Actor Name:Pitchfork_C_UAID_84EF18681C0211F901_1899558117 Label:Pitchfork7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4006.545 Y=-1168.654 Z=4082.750), Max=(X=4418.042 Y=-363.135 Z=4157.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- Guid:F36B9DE049CABC68E14E3A95EF428819 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_84EF18681C0211F901_1899586129 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-13072.250 Y=-956.154 Z=-4497.250), Max=(X=-13072.250 Y=-956.154 Z=-4497.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F4062482415DBAB183840F8DFC71A062 BaseClass: NativeClass:/Script/Engine.Actor Name:Actor_UAID_84EF18681C0211F901_1899590131 Label:Actor2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4072.250 Y=-506.154 Z=4552.750), Max=(X=-4072.250 Y=-506.154 Z=4552.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- Guid:F640D6AB475FF6CAB40E69812AC175A1 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899631149 Label:Cube10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=925.250 Y=-1476.154 Z=4075.250), Max=(X=1550.250 Y=-1376.154 Z=4750.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- Guid:FA0507B042971F3ABAEC4286D78BAC52 BaseClass:/Game/FELIPE/Blueprints/Ball.Ball_C NativeClass:/Script/Engine.Actor Name:Ball_C_UAID_84EF18681C0211F901_1899594134 Label:Ball8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9671.877 Y=-816.199 Z=2208.795), Max=(X=9981.961 Y=-299.393 Z=2633.301) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:FA22C10647D219224B8E918BA37EB9D1 BaseClass:/Game/FELIPE/Blueprints/Ball.Ball_C NativeClass:/Script/Engine.Actor Name:Ball_C_UAID_84EF18681C0211F901_1899548113 Label:Ball SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=721.877 Y=-816.199 Z=3908.795), Max=(X=1031.961 Y=-299.393 Z=4333.301) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:04C61D59438B043F255D479AF71CFD06 BaseClass:/Game/FELIPE/Blueprints/Pitchfork.Pitchfork_C NativeClass:/Script/Engine.Actor Name:Pitchfork_C_UAID_84EF18681C0211F901_1899599136 Label:Pitchfork9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6966.545 Y=-1168.654 Z=2402.750), Max=(X=7378.042 Y=-363.135 Z=2477.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:1108D11A4051ED95B5F77BBB20209E1B BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_84EF18681C0211F901_1899556116 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-7472.250 Y=-906.154 Z=3172.750), Max=(X=-7472.250 Y=-906.154 Z=3172.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:15BB622D4D32A433DADCBE8FEE84E7B4 BaseClass: NativeClass:/Script/Engine.Actor Name:Actor_UAID_84EF18681C0211F901_1899591132 Label:Actor5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3844.750 Y=-1143.654 Z=2142.750), Max=(X=11180.250 Y=-168.654 Z=2242.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:16AE42314EFBBA1D9B6E299311568F7D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899584128 Label:Cube21 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9005.250 Y=-1476.154 Z=3975.250), Max=(X=9630.250 Y=-1376.154 Z=4350.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:181A6D8C4F2D967BCAA541B45EE01899 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899578124 Label:Cube20 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=8592.750 Y=-1476.154 Z=4155.250), Max=(X=9142.750 Y=-1376.154 Z=4630.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:1A17B9B84116098B9A1C988C02686BB7 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899635151 Label:Cube6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1379.750 Y=-1476.154 Z=3910.250), Max=(X=-504.750 Y=-1376.154 Z=4535.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:2012CD7C40074360623020919B08FB8D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899618144 Label:Cube15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5472.750 Y=-1476.154 Z=4075.250), Max=(X=6022.750 Y=-1376.154 Z=4550.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:203138A64EF6D58A35398E854C81B120 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_84EF18681C0211F901_1899566120 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-7472.250 Y=-906.154 Z=3372.750), Max=(X=-7472.250 Y=-906.154 Z=3372.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:21D09C1A493BC305A9846C8ACB1E3CC1 BaseClass: NativeClass:/Script/Engine.Actor Name:Actor_UAID_84EF18681C0211F901_1899633150 Label:Actor6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10750.750 Y=-967.654 Z=3602.750), Max=(X=10850.750 Y=-242.654 Z=4402.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:2C0E905647EBF5D599B0B382ED775555 BaseClass:/Game/FELIPE/Blueprints/Pitchfork.Pitchfork_C NativeClass:/Script/Engine.Actor Name:Pitchfork_C_UAID_84EF18681C0211F901_1899603138 Label:Pitchfork6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4006.545 Y=-1168.654 Z=2412.750), Max=(X=4418.042 Y=-363.135 Z=2487.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:3117BF5045E4E6C1F84C768A4250BCA1 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_84EF18681C0211F901_1899606139 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-7472.250 Y=-906.154 Z=3042.750), Max=(X=-7472.250 Y=-906.154 Z=3042.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:31CF6CA24F029F131D8853A3135A0754 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899529103 Label:Cube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3809.750 Y=-1476.154 Z=3910.250), Max=(X=-2934.750 Y=-1376.154 Z=4535.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:336BEFE942ECF45F743FE09D1014F361 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899533105 Label:Cube14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4812.750 Y=-1476.154 Z=3955.250), Max=(X=5362.750 Y=-1376.154 Z=4430.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:49357C7F43D69EBF713CB787E64984F4 BaseClass:/Game/FELIPE/Blueprints/Ball.Ball_C NativeClass:/Script/Engine.Actor Name:Ball_C_UAID_84EF18681C0211F901_1899561118 Label:Ball4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5561.877 Y=-816.199 Z=2208.795), Max=(X=5871.961 Y=-299.393 Z=2633.301) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:4EB42FC04D26CA54DCB067A3FD2184B5 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899623146 Label:Cube17 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6662.750 Y=-1476.154 Z=4135.250), Max=(X=7212.750 Y=-1376.154 Z=4610.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:507822E94CA6E5F8CB646B9FEDDC8DC7 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899621145 Label:Cube4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1989.750 Y=-1476.154 Z=4090.250), Max=(X=-1114.750 Y=-1376.154 Z=4715.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:5210E1F54A4930DB18BFB88B0708C71C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899542110 Label:Cube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2859.750 Y=-1476.154 Z=3910.250), Max=(X=-1984.750 Y=-1376.154 Z=4535.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:551CE55D42982630109317AB0816C93D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899614142 Label:Cube13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3172.750 Y=-1476.154 Z=3955.250), Max=(X=3722.750 Y=-1376.154 Z=4430.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:59E28EC04581E96F97AEDFB477316F5B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899537107 Label:Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3924.750 Y=-1486.154 Z=3770.250), Max=(X=13200.250 Y=-1386.154 Z=6195.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:5DF968A44EEE07D14FD32799CB2B05DD BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899581126 Label:Cube5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-229.750 Y=-1476.154 Z=3910.250), Max=(X=645.250 Y=-1376.154 Z=4535.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:5FD1C61D4325B99DE3CD4FA8B6889258 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899539108 Label:Cube8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-824.750 Y=-1476.154 Z=3875.250), Max=(X=-199.750 Y=-1376.154 Z=4250.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:639C143D460443A9B70E5A83A0F6004B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899628148 Label:Cube12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3750.250 Y=-1476.154 Z=3910.250), Max=(X=4625.250 Y=-1376.154 Z=4535.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:65C0C5884BF865EDE69945BEC1758309 BaseClass: NativeClass:/Script/Engine.Actor Name:Actor_UAID_84EF18681C0212F901_1813585334 Label:Actor9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-686.754 Y=-738.687 Z=3845.350), Max=(X=7919.496 Y=-288.687 Z=4150.350) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:66CE578F4EAF72478EBCC1ACE3D1BAF8 BaseClass: NativeClass:/Script/Engine.Actor Name:Actor_UAID_84EF18681C0211F901_1899589130 Label:Actor4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3559.250 Y=-1185.154 Z=3602.750), Max=(X=-3459.250 Y=-185.154 Z=4402.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:69292CAD4AFF7D0C9BDAB0924D0C0911 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899616143 Label:Cube18 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6312.750 Y=-1476.154 Z=3895.250), Max=(X=6862.750 Y=-1376.154 Z=4370.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- [+] [ 25]
+ |   |   |   |- Guid:6CBA2E364733036BD5EACF8324356826 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:None SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [ 26]
+ |   |   |   |- Guid:7BE14A054FD80444F2F9D3A8CB112C90 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899579125 Label:Cube7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=305.250 Y=-1476.154 Z=3975.250), Max=(X=930.250 Y=-1376.154 Z=4350.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- [+] [ 27]
+ |   |   |   |- Guid:7D2B5E5D4CCF1825371AC7872295857F BaseClass:/Game/FELIPE/Blueprints/Ball.Ball_C NativeClass:/Script/Engine.Actor Name:Ball_C_UAID_84EF18681C0211F901_1899572122 Label:Ball7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9671.877 Y=-816.199 Z=3918.795), Max=(X=9981.961 Y=-299.393 Z=4343.301) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- [+] [ 28]
+ |   |   |   |- Guid:8254E3184BF6BC5C3417C480F3BD0BA5 BaseClass:/Game/FELIPE/Blueprints/Ball.Ball_C NativeClass:/Script/Engine.Actor Name:Ball_C_UAID_84EF18681C0211F901_1899568121 Label:Ball5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=8411.877 Y=-816.199 Z=2228.795), Max=(X=8721.961 Y=-299.393 Z=2653.301) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 29]
+ |   |   |   |- Guid:872B34714D31628D73297C81ABF06B5C BaseClass:/Game/FELIPE/Blueprints/Ball.Ball_C NativeClass:/Script/Engine.Actor Name:Ball_C_UAID_84EF18681C0211F901_1899625147 Label:Ball6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=8411.877 Y=-816.199 Z=3918.795), Max=(X=8721.961 Y=-299.393 Z=4343.301) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- [+] [ 30]
+ |   |   |   |- Guid:892B727B40D2F5693C2F888734A843EA BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_UAID_84EF18681C0211F901_1899534106 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-7472.250 Y=-906.154 Z=2752.750), Max=(X=-7272.250 Y=-706.154 Z=2952.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 31]
+ |   |   |   |- Guid:97999B824DF3E243DD9FDA96AD90E41D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899609140 Label:Cube11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2260.250 Y=-1476.154 Z=3910.250), Max=(X=3135.250 Y=-1376.154 Z=4535.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- [+] [ 32]
+ |   |   |   |- Guid:9C841D184C447654A487C8BE1A65C171 BaseClass:/Game/FELIPE/Blueprints/Pitchfork.Pitchfork_C NativeClass:/Script/Engine.Actor Name:Pitchfork_C_UAID_84EF18681C0211F901_1899530104 Label:Pitchfork4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2166.545 Y=-1168.654 Z=4082.750), Max=(X=2578.042 Y=-363.135 Z=4157.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- [+] [ 33]
+ |   |   |   |- Guid:A2207D04484873D16BFEE68FD47D2B94 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899640153 Label:Cube19 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7237.750 Y=-1476.154 Z=3965.250), Max=(X=8437.750 Y=-1376.154 Z=4740.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- [+] [ 34]
+ |   |   |   |- Guid:A623642240829112CE3EAB89D2EAEF92 BaseClass:/Game/FELIPE/Blueprints/Pitchfork.Pitchfork_C NativeClass:/Script/Engine.Actor Name:Pitchfork_C_UAID_84EF18681C0211F901_1899597135 Label:Pitchfork2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1853.455 Y=-1168.654 Z=4082.750), Max=(X=-1441.958 Y=-363.135 Z=4157.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- [+] [ 35]
+ |   |   |   |- Guid:AD89688D4B33BD372D2E2EAFEC1978F2 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_84EF18681C0211F901_1899550114 Label:PlayerStart2 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-3172.250 Y=-746.154 Z=2762.750), Max=(X=-3092.250 Y=-666.154 Z=2946.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 36]
+ |   |   |   |- Guid:AEA0D40C4E6F35B8568BD5AB13FA8992 BaseClass:/Game/FELIPE/Blueprints/Pitchfork.Pitchfork_C NativeClass:/Script/Engine.Actor Name:Pitchfork_C_UAID_84EF18681C0211F901_1899546112 Label:Pitchfork3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1853.455 Y=-1168.654 Z=2362.750), Max=(X=-1441.958 Y=-363.135 Z=2437.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 37]
+ |   |   |   |- Guid:B8A57A7E47196D0B04D0A5A9F47463EA BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_UAID_84EF18681C0211F901_1899544111 Label:TextRenderActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-7472.350 Y=193.846 Z=2417.763), Max=(X=-7472.350 Y=1486.154 Z=2567.763) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 38]
+ |   |   |   |- Guid:BA1AE53B461942CAA77691BA4B003861 BaseClass:/Game/FELIPE/Blueprints/Pitchfork.Pitchfork_C NativeClass:/Script/Engine.Actor Name:Pitchfork_C_UAID_84EF18681C0211F901_1899553115 Label:Pitchfork5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2166.545 Y=-1168.654 Z=2412.750), Max=(X=2578.042 Y=-363.135 Z=2487.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 39]
+ |   |   |   |- Guid:BB09E8D042F5867D5CBA1286372B47DA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899601137 Label:Cube22 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9885.250 Y=-1476.154 Z=4075.250), Max=(X=10510.250 Y=-1376.154 Z=4750.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- [+] [ 40]
+ |   |   |   |- Guid:BD38E5AF44A2E90E5445A29D9B4E2DB7 BaseClass: NativeClass:/Script/Engine.Actor Name:Actor_UAID_84EF18681C0212F901_2051164337 Label:Actor10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-686.754 Y=-738.687 Z=2255.350), Max=(X=7919.496 Y=-288.687 Z=2560.350) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 41]
+ |   |   |   |- Guid:C06A61A341E423CCF63B889C40B933B8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899592133 Label:Cube16 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5972.750 Y=-1476.154 Z=3975.250), Max=(X=6522.750 Y=-1376.154 Z=4450.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- [+] [ 42]
+ |   |   |   |- Guid:CA3230F9414C5810FAD1FA826528A46C BaseClass:/Game/FELIPE/Blueprints/Ball.Ball_C NativeClass:/Script/Engine.Actor Name:Ball_C_UAID_84EF18681C0211F901_1899563119 Label:Ball2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=721.877 Y=-816.199 Z=2218.795), Max=(X=1031.961 Y=-299.393 Z=2643.301) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 43]
+ |   |   |   |- Guid:CDA61860410D1D38ACA04CB39F04B60F BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_84EF18681C0211F901_1899582127 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 44]
+ |   |   |   |- Guid:D0B5847C4360F0957E161B8ED4E56C47 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899541109 Label:Cube9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1535.250 Y=-1476.154 Z=3985.250), Max=(X=2160.250 Y=-1376.154 Z=4660.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- [+] [ 45]
+ |   |   |   |- Guid:D5BB11C243B317A1216547BDA6F2880E BaseClass: NativeClass:/Script/Engine.Actor Name:Actor_UAID_84EF18681C0211F901_1899527102 Label:Actor3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3844.750 Y=-996.154 Z=3056.500), Max=(X=11180.250 Y=-896.154 Z=4519.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- [+] [ 46]
+ |   |   |   |- Guid:D6079D71447B68981110B39456853ED3 BaseClass: NativeClass:/Script/Engine.Actor Name:Actor_UAID_84EF18681C0211F901_1899577123 Label:Actor7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3844.750 Y=-1143.654 Z=3752.750), Max=(X=11180.250 Y=-168.654 Z=3852.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- [+] [ 47]
+ |   |   |   |- Guid:D965E4534F34FC1C1FFA6FA4F912695D BaseClass:/Game/FELIPE/Blueprints/Pitchfork.Pitchfork_C NativeClass:/Script/Engine.Actor Name:Pitchfork_C_UAID_84EF18681C0211F901_1899611141 Label:Pitchfork8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6966.545 Y=-1168.654 Z=4082.750), Max=(X=7378.042 Y=-363.135 Z=4157.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- [+] [ 48]
+ |   |   |   |- Guid:D9E9D6AD412FF04E450C60B89A816C9B BaseClass:/Game/FELIPE/Blueprints/Ball.Ball_C NativeClass:/Script/Engine.Actor Name:Ball_C_UAID_84EF18681C0211F901_1899637152 Label:Ball3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5561.877 Y=-816.199 Z=3908.795), Max=(X=5871.961 Y=-299.393 Z=4333.301) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- [+] [ 49]
+ |   |   |   |- Guid:DD9DC7A94461CA01F4E099BFC708AA37 BaseClass:/Game/FELIPE/Blueprints/Pitchfork.Pitchfork_C NativeClass:/Script/Engine.Actor Name:Pitchfork_C_UAID_84EF18681C0211F901_1899558117 Label:Pitchfork7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4006.545 Y=-1168.654 Z=4082.750), Max=(X=4418.042 Y=-363.135 Z=4157.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- [+] [ 50]
+ |   |   |   |- Guid:F36B9DE049CABC68E14E3A95EF428819 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_84EF18681C0211F901_1899586129 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-13072.250 Y=-956.154 Z=-4497.250), Max=(X=-13072.250 Y=-956.154 Z=-4497.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 51]
+ |   |   |   |- Guid:F4062482415DBAB183840F8DFC71A062 BaseClass: NativeClass:/Script/Engine.Actor Name:Actor_UAID_84EF18681C0211F901_1899590131 Label:Actor2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4072.250 Y=-506.154 Z=4552.750), Max=(X=-4072.250 Y=-506.154 Z=4552.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- [+] [ 52]
+ |   |   |   |- Guid:F640D6AB475FF6CAB40E69812AC175A1 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84EF18681C0211F901_1899631149 Label:Cube10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=925.250 Y=-1476.154 Z=4075.250), Max=(X=1550.250 Y=-1376.154 Z=4750.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |   |   |- [+] [ 53]
+ |   |   |   |- Guid:FA0507B042971F3ABAEC4286D78BAC52 BaseClass:/Game/FELIPE/Blueprints/Ball.Ball_C NativeClass:/Script/Engine.Actor Name:Ball_C_UAID_84EF18681C0211F901_1899594134 Label:Ball8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9671.877 Y=-816.199 Z=2208.795), Max=(X=9981.961 Y=-299.393 Z=2633.301) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 54]
+ |   |   |   |- Guid:FA22C10647D219224B8E918BA37EB9D1 BaseClass:/Game/FELIPE/Blueprints/Ball.Ball_C NativeClass:/Script/Engine.Actor Name:Ball_C_UAID_84EF18681C0211F901_1899548113 Label:Ball SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=721.877 Y=-816.199 Z=3908.795), Max=(X=1031.961 Y=-299.393 Z=4333.301) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Arriba FolderGuid:BD7B6107405735512408229A37523025
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/FELIPE/Map/FeliLevel
+----------------------------------------------------------------------------------------------------------------
+FeliLevel - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of FeliLevel Persistent Level
+ |- Always loaded Actor Count: 61 
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.AbstractNavData-Default
+ |- Actor Package: /Game/FELIPE/Map/FeliLevel
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.Actor_UAID_84EF18681C0211F901_1899527102
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/9/MM/BE8XCUB9MDN9E3ECHXXU8P
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.Actor_UAID_84EF18681C0211F901_1899577123
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/0/LU/HXSMJ26VXEC9LNRQ3WKXPA
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.Actor_UAID_84EF18681C0211F901_1899589130
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/E/4N/8N77T4JL7BMDSNHLLOQO2E
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.Actor_UAID_84EF18681C0211F901_1899590131
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/C/TG/Q9T2YLHEX7FJ3QBJB0CPPD
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.Actor_UAID_84EF18681C0211F901_1899591132
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/A/IF/K4PBZOZ905NTSAVB3H5LGI
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.Actor_UAID_84EF18681C0211F901_1899633150
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/E/XJ/30HRLFWT304JUSXGUA8L79
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.Actor_UAID_84EF18681C0212F901_1813585334
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/4/T9/46L48INVQOG4MV4U8SQB5M
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.Actor_UAID_84EF18681C0212F901_2051164337
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/8/KH/HUT97N4AC2XRNFCXIY0SKA
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.Ball_C_UAID_84EF18681C0211F901_1899548113
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/3/40/MH3SAE3I6BH678NM1WVTQJ
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.Ball_C_UAID_84EF18681C0211F901_1899561118
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/E/8Z/N3FA9RJ1D8S2QLC4SFZGO7
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.Ball_C_UAID_84EF18681C0211F901_1899563119
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/B/5H/OBPX7UP4DU6AHAI6UN588D
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.Ball_C_UAID_84EF18681C0211F901_1899568121
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/A/9N/RQ4F1VD130MQKOEE171WMQ
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.Ball_C_UAID_84EF18681C0211F901_1899572122
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/3/RX/LC1DM2UTMII0K2SU3S9FPI
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.Ball_C_UAID_84EF18681C0211F901_1899594134
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/8/UJ/ICFVV12OPH33PO8USTU9R2
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.Ball_C_UAID_84EF18681C0211F901_1899625147
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/9/XP/M7PBXU5TTAXYK2K4I220ZS
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.Ball_C_UAID_84EF18681C0211F901_1899637152
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/6/F8/IG9XQ4CV66UK59FLMQOQXL
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.Brush_0
+ |- Actor Package: /Game/FELIPE/Map/FeliLevel
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/FELIPE/Map/FeliLevel
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.DirectionalLight_UAID_84EF18681C0211F901_1899582127
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/2/LJ/TWGUV5PXWVA1N6F8QF5O9S
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.ExponentialHeightFog_UAID_84EF18681C0211F901_1899586129
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/4/5L/6EIQNRWFOAQCC68K4VBDB0
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/FELIPE/Map/FeliLevel
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.Pitchfork_C_UAID_84EF18681C0211F901_1899530104
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/2/AI/RTNY17Y6C3CAE172NX3TX3
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.Pitchfork_C_UAID_84EF18681C0211F901_1899546112
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/C/QM/55MG5E8SNB4PEXNVZQVKD0
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.Pitchfork_C_UAID_84EF18681C0211F901_1899553115
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/A/36/OGELBLJWH7DSN9NZ9UYLK5
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.Pitchfork_C_UAID_84EF18681C0211F901_1899558117
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/3/C3/6QE7ZNL6FG7QVE6D040GVF
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.Pitchfork_C_UAID_84EF18681C0211F901_1899597135
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/C/6Z/I4XDQJPKAW1T7HQ9U3Q48X
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.Pitchfork_C_UAID_84EF18681C0211F901_1899599136
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/B/LJ/0TRF03M1MCVWUNW2EC4MSO
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.Pitchfork_C_UAID_84EF18681C0211F901_1899603138
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/A/UX/XV7ILWROV1GKO53PW1QOJN
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.Pitchfork_C_UAID_84EF18681C0211F901_1899611141
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/0/AT/2R6KUIUQ5DU53C0TU0OMXQ
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.PlayerStart_UAID_84EF18681C0211F901_1899550114
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/5/ZB/CDW0J3Y7B2TX6HTDL7O7UH
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.PostProcessVolume_UAID_84EF18681C0211F901_1899534106
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/1/SZ/B2HQXA97GCVWOP0CQBDP0G
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.SkyAtmosphere_UAID_84EF18681C0211F901_1899566120
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/7/QK/JA1IP53JE8DB6ML4IB2GTQ
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.SkyLight_UAID_84EF18681C0211F901_1899606139
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/0/76/NZVGGEMCQ6XXXLGMS37ZMV
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.StaticMeshActor_UAID_84EF18681C0211F901_1899529103
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/B/NJ/NKYRUI76ZC8AYO3LP2QZY5
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.StaticMeshActor_UAID_84EF18681C0211F901_1899533105
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/8/SX/Q2VN7GQSP99H71VXLKM3R5
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.StaticMeshActor_UAID_84EF18681C0211F901_1899537107
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/5/YZ/72U2UOI2VIE4CEX9SUXMBX
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.StaticMeshActor_UAID_84EF18681C0211F901_1899539108
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/4/DA/FNO8HKPJYA37GEL04T4DBS
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.StaticMeshActor_UAID_84EF18681C0211F901_1899541109
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/2/KR/YZUHTOJG3U5X72I24MFJSM
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.StaticMeshActor_UAID_84EF18681C0211F901_1899542110
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/7/4K/ZUNZSW44V6N3TKB4HD5KZK
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.StaticMeshActor_UAID_84EF18681C0211F901_1899578124
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/B/VE/T2AAV1WFMJUKNGK3EJL28D
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.StaticMeshActor_UAID_84EF18681C0211F901_1899579125
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/8/YH/3QCLZLGMBNZW9WJLA2N6QM
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.StaticMeshActor_UAID_84EF18681C0211F901_1899581126
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/5/UE/UODIKIQJS3IUUBLNECBIHF
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.StaticMeshActor_UAID_84EF18681C0211F901_1899584128
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/B/6S/3VDJQ367SSE7M5NM76KRJ3
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.StaticMeshActor_UAID_84EF18681C0211F901_1899592133
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/5/SY/E8P03LYSYD58QQKO2MS034
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.StaticMeshActor_UAID_84EF18681C0211F901_1899601137
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/9/KU/L4AZ6L2TAFHA6BU28FQ4GZ
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.StaticMeshActor_UAID_84EF18681C0211F901_1899609140
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/A/FP/GNJIY2V2X2CCO8E297EXU7
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.StaticMeshActor_UAID_84EF18681C0211F901_1899614142
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/B/2V/YXNDU40EEOQEGRFLAGHPYI
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.StaticMeshActor_UAID_84EF18681C0211F901_1899616143
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/9/K6/0VCR75VJHFLY4O1DBQ9SLQ
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.StaticMeshActor_UAID_84EF18681C0211F901_1899618144
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/E/83/VXFOBAIO1VMOBSNMAZVMVB
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.StaticMeshActor_UAID_84EF18681C0211F901_1899621145
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/4/1J/J4MQQFSTZ8NIQNVJZ0V8PP
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.StaticMeshActor_UAID_84EF18681C0211F901_1899623146
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/4/D7/D09O9AIDX63SN3VRSVO4QX
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.StaticMeshActor_UAID_84EF18681C0211F901_1899628148
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/7/0L/WEJLA5CQYRIRQUF588PZ59
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.StaticMeshActor_UAID_84EF18681C0211F901_1899631149
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/6/4H/3N9Q43H3EWDF1M58LSTV04
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.StaticMeshActor_UAID_84EF18681C0211F901_1899635151
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/9/2B/1WDRR3E7ZMHC1I5SP97FJM
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.StaticMeshActor_UAID_84EF18681C0211F901_1899640153
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/C/YP/4JMNXU3MJIF10WY9J8TR5K
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.TextRenderActor_UAID_84EF18681C0211F901_1899544111
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/C/AM/UN62PX370B5UX9GN823TRS
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.VolumetricCloud_UAID_84EF18681C0211F901_1899556116
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/3/JS/1EPTSOH6IUVR4G6S8WJMM2
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/A/Y5/QHWHB85AU88X7VQB3HUH2H
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.WorldPartitionMiniMap_UAID_84EF18681C0211F901_1885652100
+ |- Actor Package: /Game/__ExternalActors__/FELIPE/Map/FeliLevel/4/7O/BP79L462MC3YG7RU6GDHG0
+ |- Actor Path: /Game/FELIPE/Map/FeliLevel.FeliLevel:PersistentLevel.WorldSettings
+ |- Actor Package: /Game/FELIPE/Map/FeliLevel
+
+----------------------------------------------------------------------------------------------------------------
+FeliLevel - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
